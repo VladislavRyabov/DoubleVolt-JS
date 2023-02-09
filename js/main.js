@@ -13,7 +13,7 @@ $(function () {
             {   src: 'img/pexels.jpg',
                 video: {
                     src: [
-                        'videos/vide-audia6-1.mp4',
+                        'videos/vide-audia6-1.mov',
                     ],
                     loop: false,
                     mute: true
