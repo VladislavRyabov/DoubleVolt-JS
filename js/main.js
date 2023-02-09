@@ -18,15 +18,6 @@ $(function () {
                     loop: false,
                     mute: true
                 }
-            },
-            {   src: 'img/pexels.jpg',
-                video: {
-                    src: [
-                        'videos/vide-audia6-1.mov',
-                    ],
-                    loop: false,
-                    mute: true
-                }
             }
         ],
     });

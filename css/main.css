@@ -260,7 +260,7 @@ button, button:hover, button:focus, button:active
 
 }
 .offer__heading {
-	font-family: Bitter Regular;
+	/* font-family: Bitter Regular; */
 	font-size: 45px;
 	line-height: 140%;
 	margin-bottom: 12px;
